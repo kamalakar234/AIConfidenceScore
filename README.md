@@ -56,7 +56,7 @@ The solution implements an **intelligent automated approval system** that:
                        ▼
 ┌─────────────────────────────────────────────────────────────┐
 │            Copilot Studio Agent                              │
-│       "Send AIConfidence score to EV"                       │
+│           "EV Request Analyzer"                       │
 │  ┌─────────────────────────────────────────────────────┐   │
 │  │ 1. Extract Request Information                      │   │
 │  │    - Duration of Access                            │   │
@@ -153,7 +153,7 @@ The solution implements an **intelligent automated approval system** that:
 
 ## 🏗️ System Components
 
-### 1. **Copilot Studio Agent: "Ticket Analyzer**
+### 1. **Copilot Studio Agent: "EV Request Analyzer"**
 
 **Type:** Cloud-based Intelligent Agent  
 **Framework:** Power Automate + Copilot Studio  
